@@ -1,0 +1,19 @@
+{
+    "name": "mirbaagheri/subscription",
+    "description": "A subscription package for laravel.",
+    "authors": [
+        {
+            "name": "Sayed Mostafa Mirbagheri",
+            "email": "Mostafa.Miri65@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.10",
+    },
+    "autoload": {
+        "psr-0": {
+            "Mirbaagheri\\Subscription": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
